@@ -1,0 +1,2 @@
+1.15.25: Subject - What I've learned today
+    Today in Software engineering, we went over the basic fundamentals of using local and remote repos with git, which is an essential tool for us in this class, and as programmers in general. We also learned what the importance of communication is with our teams we split up into throught the puzzle activity we did in class. It's important that we communitcate with each other to minimize the amount of confusion when doing projects, and to help boost effeciency in project making.
