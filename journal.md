@@ -1,2 +1,5 @@
 1.15.25: Subject - What I've learned today
     Today in Software engineering, we went over the basic fundamentals of using local and remote repos with git, which is an essential tool for us in this class, and as programmers in general. We also learned what the importance of communication is with our teams we split up into throught the puzzle activity we did in class. It's important that we communitcate with each other to minimize the amount of confusion when doing projects, and to help boost effeciency in project making.
+
+1.22.25: Subject - Error debugging
+    In CS 3005 today, we went over a lesson of how we can effectively read through errors in our code to be able to figure out what part of our code needs to be fixed. I think this is an important skill to have when programming, especially when making larger programs. We went through different anonymous examples of common errors students in the past have had, and went through what the main cause of the error was, and the potential solutions that could fix it.
