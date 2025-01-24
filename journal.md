@@ -3,3 +3,6 @@
 
 1.22.25: Subject - Error debugging
     In CS 3005 today, we went over a lesson of how we can effectively read through errors in our code to be able to figure out what part of our code needs to be fixed. I think this is an important skill to have when programming, especially when making larger programs. We went through different anonymous examples of common errors students in the past have had, and went through what the main cause of the error was, and the potential solutions that could fix it.
+
+1.24.25: Subject - CS 3005
+    Today we have gone over the importance of using different strategies to help avoid running into issues of classes being defined more than once in the case that a header file has been included more than once. One of the common practices used to help avoid this is by starting a header file with #ifndef _FILE_NAME_H_ and #define _FILE_NAME_H_, then ending the header file with #endif /* _FILE_NAME_H */. Another quicker option to avoid multiple definitions of classes in header files is by using #pragma once at the beginning of the header file.
