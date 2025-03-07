@@ -18,3 +18,6 @@
 
 2.23.25: Subject - Merging branches on github
     This past week after finishing our presentations, we went over the steps of merging conflicting braches onto our main branch of our teams repository. We each created our own branch that we must remain making changes to locally and pushing to the remote so that way files don't conflict with each other on the main branch which can cause lots of issues. Making changes to our personal branches allows us to be able to resolve conflicts when trying to merge to the main branch, making sure nothing goes wrong with our main branch causing further issues.s
+
+3.7.25: Subject - progress this week
+    So far this week I am happy with the progress I have been able to make with projects ive been working on in CS 2450 and CS 3005. I was able to get the last assignment passed for 3005 for stage 2 of our project. In its current state, I am able to give it the information it needs, and the program will generate a .wav file playing a note based on the information given, which is really cool. For CS 2450 I was able to get the tag system to work on the posts side of things, but still need to get it working on the users side.
