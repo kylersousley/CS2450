@@ -21,3 +21,6 @@
 
 3.7.25: Subject - progress this week
     So far this week I am happy with the progress I have been able to make with projects ive been working on in CS 2450 and CS 3005. I was able to get the last assignment passed for 3005 for stage 2 of our project. In its current state, I am able to give it the information it needs, and the program will generate a .wav file playing a note based on the information given, which is really cool. For CS 2450 I was able to get the tag system to work on the posts side of things, but still need to get it working on the users side.
+
+3.21.25: Subject - Project progress this week
+    In CS 2450 this week, I was able to get a few new features working. I made it so the user can only add the tags to their post that are also attached to their profile. I was also able to get tags attached to user profiles working properly. Upon registering for a new user, the user must select one or more of the tags built in to the application, or else a error message will show saying you must select one or more tags. Once the user selects their tags and registers, their account now has those tags attached to their profile. I also got the tags the user has attached to their profile to display on the side of the feed page under the "my friends" box.
