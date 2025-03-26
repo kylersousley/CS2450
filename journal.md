@@ -24,3 +24,6 @@
 
 3.21.25: Subject - Project progress this week
     In CS 2450 this week, I was able to get a few new features working. I made it so the user can only add the tags to their post that are also attached to their profile. I was also able to get tags attached to user profiles working properly. Upon registering for a new user, the user must select one or more of the tags built in to the application, or else a error message will show saying you must select one or more tags. Once the user selects their tags and registers, their account now has those tags attached to their profile. I also got the tags the user has attached to their profile to display on the side of the feed page under the "my friends" box.
+
+3.26.25: Subject - More progress done on youface project
+    Last night, I was able to spend a couple hours putting together the start of a settings page for the users profile. I got a seperate handler file for the functionality made, as well as an html file in templates for the page to show. So far, I have managed to get functionality working for the user to change their username, and change their password. Next, I want to add the ability for the user to add/remove tags from their profile, and also probably add an "are you sure?" warning when changing your username and password.
