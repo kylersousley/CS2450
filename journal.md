@@ -27,3 +27,6 @@
 
 3.26.25: Subject - More progress done on youface project
     Last night, I was able to spend a couple hours putting together the start of a settings page for the users profile. I got a seperate handler file for the functionality made, as well as an html file in templates for the page to show. So far, I have managed to get functionality working for the user to change their username, and change their password. Next, I want to add the ability for the user to add/remove tags from their profile, and also probably add an "are you sure?" warning when changing your username and password.
+
+4.6.25: Subject - Youface progress
+    This week, I was able to get progress done adding functionalist for the likes and dislikes button for each post on the site
