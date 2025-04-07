@@ -30,3 +30,6 @@
 
 4.6.25: Subject - Youface progress
     This week, I was able to get progress done adding functionalist for the likes and dislikes button for each post on the site
+
+4.7.25: Subject - Youface progress
+    Today, I was able to spend some time adding in a comments feature for each post on the site. Users now have the ability to type up and leave a comment on other users posts.
