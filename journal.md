@@ -33,3 +33,6 @@
 
 4.7.25: Subject - Youface progress
     Today, I was able to spend some time adding in a comments feature for each post on the site. Users now have the ability to type up and leave a comment on other users posts.
+
+4.11.25: Subject - Fixed github actions
+    Today, I was finally able to get my seleniums tests to run properly on the github actions, as well as getting all of the tests to pass.
