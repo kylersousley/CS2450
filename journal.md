@@ -36,3 +36,6 @@
 
 4.11.25: Subject - Fixed github actions
     Today, I was finally able to get my seleniums tests to run properly on the github actions, as well as getting all of the tests to pass.
+
+4.22.25: Subject - Final touches on Youface project
+    Last week, I was able to get the final finishing touches done on the backend of the youface project. I decided to redo the system that was in place for liking/disliking posts to allow for a better way to tell if a user has already liked/disliked a post or not. Instead of just storing the likes/dislikes as a number in the posts data, I decided to store them as a list of the usernames of the users that have liked/disliked the post, then have each post display the length of that list to show the proper number of likes/dislikes. This made it much easier to be able to code it so if the user were to press like on a post they have already liked, I removes their like, and same goes for the dislike button.
